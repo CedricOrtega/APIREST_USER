@@ -1,0 +1,10 @@
+[2019-04-28 22:04:01.111] - 9981 INFOS [http-nio-8080-exec-1] --- logger: 
+Time to process : 16 milliseconds
+
+GET /users/ with body params : 
+name :Ortega
+sur-name : Cédric
+date-birth : 1997-03-21
+country : france
+phone-number : 0677554677
+
